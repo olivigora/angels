@@ -12,18 +12,18 @@
 }
 
 .invader {
-    background-color: purple;
-    border-radius: 20px;
+    background-image: url(images/alien2.png);
+    border-radius: 40px;
 }
 
 .shooter {
-    background-color: rgb(212, 0, 0);
+    background-image: url(images/shooter2.png);
 }
 
 .laser {
-    background-color: orangered;
+    background-image: url(images/laser2.png);
 }
 
 .boom {
-    background-color: yellow;
+    background-image: url(images/boom2.png);
 }
